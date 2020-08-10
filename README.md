@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-> I am working at Kanzhun
+> I am working at Boss直聘
 
 🇨🇳 China Beijing - 💻 Android Developer
 
