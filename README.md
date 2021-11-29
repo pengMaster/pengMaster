@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 
 🇨🇳 China Beijing - 💻 Android Developer
 
-https://pengmaster.com/blogs/index
